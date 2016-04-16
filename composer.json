@@ -1,0 +1,20 @@
+{
+    "name": "adilab/critical-section",
+    "description": "Critical-section functionality for PHP",
+    "homepage": "https://github.com/adilab/critical-section.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Zurkiewicz",
+            "email": "adrian@adilab.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/adilab/critical-section/issues"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
